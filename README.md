@@ -4,7 +4,7 @@
 ![StdDraw](https://img.shields.io/badge/Library-StdDraw-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-A 2D tile-based Super Mario platformer built from scratch in Java using object-oriented architecture and the **StdDraw** library. Developed for **Boğaziçi University CMPE 160 (Object-Oriented Programming)**.
+A 2D tile-based Super Mario platformer built from scratch in Java using object-oriented architecture and the **StdDraw** library. Developed for **Bogazici University CMPE 160 (Object-Oriented Programming)**.
 
 The project features custom 4-directional boundary physics, dual-directional portal teleportation with crouch animations, dynamic camera follow/zoom modes, and level mechanics with custom enemy AI.
 
@@ -90,3 +90,13 @@ my-second-game/
    javac -cp .:stdlib.jar src/*.java -d bin
    java -cp bin:stdlib.jar Main
    ```
+
+## 👤 Author
+
+<a href="https://github.com/emo-pc">
+  <img src="picture.png" width="150" align="right" alt="Emre Ezgü Ghibli Portrait">
+</a>
+
+**Emre Ezgü**  
+- **University:** Bogazici University — Computer Engineering
+- **GitHub:** [@emo-pc](https://github.com/emo-pc)
