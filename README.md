@@ -11,7 +11,7 @@ The project features custom 4-directional boundary physics, dual-directional por
 ---
 ## 🎬 Gameplay Demo
 
-🎥 **Watch Gameplay Video:** [YouTube Demo Linki](https://youtube.com/shorts/cvpB_91XZaA)
+🎥 **Watch Gameplay Video:** [Watch on YouTube Shorts](https://youtube.com/shorts/cvpB_91XZaA)
 
 ---
 ## 🎮 Features & Gameplay Dynamics
