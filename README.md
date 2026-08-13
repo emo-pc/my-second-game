@@ -9,7 +9,11 @@ A 2D tile-based Super Mario platformer built from scratch in Java using object-o
 The project features custom 4-directional boundary physics, dual-directional portal teleportation with crouch animations, dynamic camera follow/zoom modes, and level mechanics with custom enemy AI.
 
 ---
+## 🎬 Gameplay Demo
 
+🎥 **Watch Gameplay Video:** [YouTube Demo Linki](https://youtube.com/shorts/cvpB_91XZaA)
+
+---
 ## 🎮 Features & Gameplay Dynamics
 
 ### 1. Physics & Collision Handling
