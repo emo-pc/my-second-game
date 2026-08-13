@@ -78,12 +78,12 @@ my-second-game/
 ### Execution
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/emo-pc/my-first-game.git](https://github.com/emo-pc/my-first-game.git)
-   cd my-first-game
+   git clone [https://github.com/emo-pc/my-second-game.git](https://github.com/emo-pc/my-second-game.git)
+   cd my-second-game
    ```
 
 2. **Compile and Run:**
-   `stdlib.jar` is in the repo.
+   `stdlib.jar` is on the repo.
    Ensure `stdlib.jar` is in your working directory, then run:
    ```bash
    javac -cp .:stdlib.jar src/*.java -d bin
