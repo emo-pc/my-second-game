@@ -1,5 +1,4 @@
-//Your Name Emre Ezgu
-//Student ID 2024400144
+
 
 import java.awt.event.KeyEvent;
 
